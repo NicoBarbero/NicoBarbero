@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Me llamo Nicolás Barero</h1>
+<h1 align="center">Hola! Me llamo Nicolás Barbero</h1>
 <h3 align="center">Soy un Fronted apasionado</h3>
 
 - 💬 Ask me about **html,css,javascript y reactjs**
