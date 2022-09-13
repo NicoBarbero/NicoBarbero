@@ -1,5 +1,5 @@
 <h1 align="center">Hola! Me llamo Nicolás Barero</h1>
-<h3 align="center">Soy front-end developer</h3>
+<h3 align="center">Soy un front-end developer</h3>
 
 - 💬 Ask me about **html,css,javascript y reactjs**
 
