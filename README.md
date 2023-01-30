@@ -1,7 +1,7 @@
 <h1 align="center">Hola! Me llamo Nicolás Barbero</h1>
 <h3 align="center">Soy un front-end developer</h3>
 
-- 💬 Ask me about **html,css,javascript y reactjs**
+- 💬 Ask me about **html,css,javascript, reactjs y ciberseguridad**
 
 - 📫 How to reach me **barberonicolas@outlook.com**
 
