@@ -31,7 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicobarbero&" alt="nicobarbero" /></p>
 
-Watch this snake 🐍 eating my github contributions
 
-![snake gif](https://github.com/NicoBarbero/NicoBarbero/blob/output/github-contribution-grid-snake.svg)
 
