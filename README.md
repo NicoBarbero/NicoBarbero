@@ -1,5 +1,5 @@
 <<h1 align="center">Hi 👋, I'm Nicolás Barbero</h1>
-<h3 align="center">I am a front-end developer 💻 living in Argentina 🇦🇷 😁</h3>
+<h3 align="center">I am a front-end developer 💻 living in Argentina 😁</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicobarbero&label=Profile%20views&color=0e75b6&style=flat" alt="nicobarbero" /> </p>
 
