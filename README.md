@@ -30,3 +30,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicobarbero&show_icons=true&locale=en&layout=compact" alt="nicobarbero" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicobarbero&" alt="nicobarbero" /></p>
+
+Watch this snake 🐍 eating my github contributions
+
+![snake gif](https://github.com/NicoBarbero/NicoBarbero/blob/output/github-contribution-grid-snake.svg)
+
